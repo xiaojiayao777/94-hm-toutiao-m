@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>文章页面</div>
 </template>
 
 <script>
